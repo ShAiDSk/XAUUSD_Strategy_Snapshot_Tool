@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/ShAiDSk/XAUUSD_Strategy_Snapshot_Tool/blob/main/Trading_GIF__.gif" width="300" alt="Trading chart gif" />
+  <img src="https://github.com/ShAiDSk/XAUUSD_Strategy_Snapshot_Tool/blob/main/Trading_GIF__.gif" width="900" alt="Trading chart gif" />
 </p>
 
 ---
