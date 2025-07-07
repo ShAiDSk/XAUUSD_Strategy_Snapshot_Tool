@@ -42,11 +42,11 @@
 <tr>
 <td align="center">
   <strong>Trade Entry Form</strong><br>
-  <img src="https://via.placeholder.com/350x200.png?text=Form+UI" width="300"/>
+  <img src="https://github.com/ShAiDSk/XAUUSD_Strategy_Snapshot_Tool/blob/main/front-end.png" width="300"/>
 </td>
 <td align="center">
   <strong>Generated Chart Output</strong><br>
-  <img src="https://via.placeholder.com/350x200.png?text=RR+Snapshot+Chart" width="300"/>
+  <img src="https://github.com/ShAiDSk/XAUUSD_Strategy_Snapshot_Tool/blob/main/data-base.png" width="300"/>
 </td>
 </tr>
 </table>
@@ -56,8 +56,8 @@
 ## 📥 Installation
 
 ```bash
-git clone https://github.com/itz-shaidsk-fx/xauusd_ss_tool.git
-cd xauusd_ss_tool
+git clone https://github.com/ShAiDSk/XAUUSD_Strategy_Snapshot_Tool.git // gh repo clone ShAiDSk/XAUUSD_Strategy_Snapshot_Tool
+cd XAUUSD_Strategy_Snapshot_Tool
 pip install -r requirements.txt
 ```
 
