@@ -1,0 +1,4 @@
+streamlit
+matplotlib
+pymongo
+python-telegram-bot
