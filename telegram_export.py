@@ -1,7 +1,7 @@
 from telegram import Bot
 
-BOT_TOKEN = "8180975507:AAHM8VIcjOA5dSFLnGF3ZSy-49mSLpfHr-M"
-CHAT_ID = "8180975507"
+BOT_TOKEN = "Token"
+CHAT_ID = "ID"
 
 def send_snapshot_to_telegram(image_path, message):
     bot = Bot(token=BOT_TOKEN)
